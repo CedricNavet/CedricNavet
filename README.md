@@ -60,6 +60,15 @@
 
 ---
 
+📫 Me contacter
+✉️ Email : cedric.navet@agencegreener.com
+
+🔗 LinkedIn : linkedin.com/in/cedric-navet
+
+🐦 Twitter : @cedricnavet
+
+<p align="center"> Made with ❤️ by Cédric Navet </p> ```
+
 ## 📈 Statistiques GitHub
 
 ```md
