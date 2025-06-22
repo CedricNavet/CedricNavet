@@ -20,11 +20,13 @@
 | Depuis 2023   | Fondateur & Dirigeant           | **Ogmentis SAS**     | - Lauréat Prix Pépite Régional 2023, French Tech Tremplin  
 |               |                                 |                      | - App 3D interactive & RA multiplateforme (Web/iOS/Android)  
 |               |                                 |                      | - Workshops “Business Model & AR” pour jeunes entrepreneurs |
-| 2021 – aujourd’hui | CTO & Lead Dev              | **Mately**           | - Infra Cloud & DevOps (Docker Swarm, Grafana…)  
+|               |                                 |                      | - Architecture microservices & sauvegardes automatisées |
+|               |                                 |                      | - Configurateur 3D AR (Unity)  |
+|               |                                 |                      | - App clip (Swift) |
+|               |                                 |                      | - Arkit Arcore pour le web |
+|               | CTO & Lead Dev                  | **Mately**           | - Infra Cloud & DevOps (Docker Swarm, Grafana…)  
 |               |                                 |                      | - App mobile React Native & microservices Node.js/ASP.NET  
 |               |                                 |                      | - Monitoring, CI/CD, KPI & dashboards custom      |
-| 2020 – 2021   | Dev Full-Stack & Ingénieur Système | **SCRIPTO**         | - Configurateur 3D AR (Unity)  
-|               |                                 |                      | - Architecture microservices & sauvegardes automatisées |
 | 2016 – 2022   | Freelance & Consultant Digital  | **Greener**          | - Sites web / e-commerce (React, Next.js, ASP.NET)  
 |               |                                 |                      | - Prototype PLV, carte de fidélité connectée  
 |               |                                 |                      | - Solutions mailing & CRM intégrées               |
@@ -36,7 +38,7 @@
 - **Langages & Frameworks**  
   • C# / .NET Core · ASP .NET · Unity · React · React Native · Next.js · Node.js · JavaScript  
 - **DevOps & Cloud**  
-  • Docker · Kubernetes · Terraform · Ansible · AWS · GitLab CI/CD  
+  • Docker · Docker Swarm · GitLab CI/CD  
 - **Base de données & Cache**  
   • MongoDB · SQL Server · Redis  
 - **Monitoring & Logging**  
