@@ -78,5 +78,9 @@
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=CedricNavet&theme=dark)
 
+## 📈 Mes Stats (Self-host)
+
+![Stats Privés+Orga](https://ton-url.vercel.app/api?username=CedricNavet&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
 
 ```md
