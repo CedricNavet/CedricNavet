@@ -72,5 +72,8 @@
 ## 📈 Statistiques GitHub
 
 ```md
-![Cédric’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=cedricnavet&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cedricnavet&layout=compact&theme=radical)
+## 📈 Statistiques GitHub
+
+![Cédric’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=cedric-navet&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cedric-navet&layout=compact&theme=radical)
+
