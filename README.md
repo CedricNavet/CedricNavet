@@ -82,5 +82,10 @@
 
 ![Stats Privés+Orga](https://ton-url.vercel.app/api?username=CedricNavet&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
+<!-- Statistiques globales -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CedricNavet&show_icons=true&theme=radical)
+
+<!-- Top langages utilisés -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CedricNavet&layout=compact&theme=radical)
 
 ```md
