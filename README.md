@@ -74,4 +74,9 @@
 ![Mes GitHub Stats](https://github-readme-stats.vercel.app/api?username=CedricNavet&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CedricNavet&layout=compact&theme=radical)
 
+![Profile Summary](https://profile-summary-for-github.com/api/cards/profile-details?username=CedricNavet&show_icons=true&theme=dark&count_private=true)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=CedricNavet&theme=dark)
+
+
 ```md
