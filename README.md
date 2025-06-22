@@ -1,52 +1,64 @@
 # 👋 Salut, moi c’est Cédric Navet
 
-> **CTO @ Mately** • Dirigeant @ Ogmentis • Dev Full-Stack & DevOps 🚀
+> **CTO @ Mately** • Fondateur & Dirigeant @ Ogmentis • Dev Full-Stack & DevOps 🚀
 
 ---
 
 ## 📖 À propos de moi
 
-- 💼 **Rôles**  
-  - CTO de [Mately](https://mately.gg) – la plateforme qui connecte les passionnés de jeux vidéo  
-  - Fondateur & Dirigeant d’[Ogmentis](https://ogmentis.com) – solutions SPA & balnéothérapie  
-- 👨‍💻 **Spécialités**  
-  - Développement Full-Stack (React, Node.js, MongoDB…)  
-  - DevOps & Infrastructure (Docker, Kubernetes, CI/CD, Terraform)  
-  - Automatisation & Monitoring  
-- 🌍 **Localisation** : France  
-- 📫 **Contact** :  
-  - ✉️ cédric@ogmentis.com  
-  - 🔗 [LinkedIn](https://www.linkedin.com/in/cedric-navet)  
-  - 🐦 [Twitter](https://twitter.com/cedricnavet)
+- 🏉 Rugbyman depuis plus de 12 ans, compétiteur dans la vie perso comme pro  
+- 💡 Passionné par l’informatique, j’aspire à mener des projets innovants avec des valeurs éthiques  
+- 🌍 Basé à Reims, France  
+- 🎯 Toujours en quête d’excellence technique et d’impact positif
 
 ---
 
-## 🚀 Projets phares
+## 💼 Parcours professionnel
 
-| Projet       | Rôle                | Tech stack principale            | Lien                                       |
-|--------------|---------------------|----------------------------------|--------------------------------------------|
-| **Mately**   | CTO & Lead Dev      | React Native · Node.js · MongoDB · AWS · GitLab CI/CD | https://mately.gg                          |
-| **Ogmentis** | Fondateur & DevOps  | React · NestJS · Kubernetes · Terraform · Prometheus | https://ogmentis.com                       |
-| **Diframe**  | Intégration RA      | App Clip · Swift · ARKit · Firebase | (privé – partages restreints)              |
+| Période       | Rôle                            | Organisation         | Réalisations clés                                 |
+|---------------|---------------------------------|----------------------|---------------------------------------------------|
+| Depuis 2023   | Fondateur & Dirigeant           | **Ogmentis SAS**     | - Lauréat Prix Pépite Régional 2023, French Tech Tremplin  
+|               |                                 |                      | - App 3D interactive & RA multiplateforme (Web/iOS/Android)  
+|               |                                 |                      | - Workshops “Business Model & AR” pour jeunes entrepreneurs |
+| 2021 – aujourd’hui | CTO & Lead Dev              | **Mately**           | - Infra Cloud & DevOps (Docker Swarm, Grafana…)  
+|               |                                 |                      | - App mobile React Native & microservices Node.js/ASP.NET  
+|               |                                 |                      | - Monitoring, CI/CD, KPI & dashboards custom      |
+| 2020 – 2021   | Dev Full-Stack & Ingénieur Système | **SCRIPTO**         | - Configurateur 3D AR (Unity)  
+|               |                                 |                      | - Architecture microservices & sauvegardes automatisées |
+| 2016 – 2022   | Freelance & Consultant Digital  | **Greener**          | - Sites web / e-commerce (React, Next.js, ASP.NET)  
+|               |                                 |                      | - Prototype PLV, carte de fidélité connectée  
+|               |                                 |                      | - Solutions mailing & CRM intégrées               |
 
 ---
 
-## 🛠️ Compétences & Outils
+## 🛠️ Compétences & Stack technique
 
-| Domaine           | Technologies & Outils                                   |
-|-------------------|---------------------------------------------------------|
-| **Frontend**      | React, React Native, Vue.js, Tailwind CSS               |
-| **Backend**       | Node.js, NestJS, Express, MongoDB, PostgreSQL           |
-| **DevOps / Cloud**| Docker, Kubernetes, Terraform, AWS, GitLab CI/CD, Ansible |
-| **CI / CD**       | GitLab CI, GitHub Actions, Jenkins                      |
-| **Monitoring**    | Prometheus, Grafana, ELK Stack                         |
-| **Automatisation**| Python, Bash, Terraform, Helm                          |
+- **Langages & Frameworks**  
+  • C# / .NET Core · ASP .NET · Unity · React · React Native · Next.js · Node.js · JavaScript  
+- **DevOps & Cloud**  
+  • Docker · Kubernetes · Terraform · Ansible · AWS · GitLab CI/CD  
+- **Base de données & Cache**  
+  • MongoDB · SQL Server · Redis  
+- **Monitoring & Logging**  
+  • Grafana · Prometheus · ELK Stack  
+- **Outils & Méthodes**  
+  • GitHub · MS Project · Notion · CI/CD · Agile / Scrum  
+- **Langues**  
+  • Français (natif) · Anglais (C1, TOEIC 870)
+
+---
+
+## 🎓 Formation
+
+- **Ingénieur Informatique** – École d’ingénieurs (Projets d’envergure : intranet, e-commerce, Apps mobiles)  
+- **Certifications & Prix**  
+  - Prix Pépite Régional 2023  
+  - French Tech Tremplin – « Coup de cœur Défi Étudiant-Entrepreneur »  
+  - Programme INNOVACT / Quest for Change (incubation)
 
 ---
 
 ## 📈 Statistiques GitHub
-
-> Affiche tes contributions, languages et plus via des widgets dynamiques !
 
 ```md
 ![Cédric’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=cedricnavet&show_icons=true&theme=radical)
