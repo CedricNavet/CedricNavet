@@ -92,7 +92,7 @@
 
 ![GitHub Stats](https://github-readme-stats-murex-five-58.vercel.app/api?username=CedricNavet&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats-murex-five-58.vercel.app/api/top-langs/?username=CedricNavet&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=10)
+![Top Langs](https://github-readme-stats-murex-five-58.vercel.app/api/top-langs/?username=CedricNavet&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=10&hide=html)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=CedricNavet&theme=radical&hide_border=true)
 
