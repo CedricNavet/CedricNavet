@@ -97,7 +97,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=CedricNavet&theme=radical&hide_border=true)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=CedricNavet&theme=onedark&no-frame=true&row=1&column=6)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=CedricNavet&theme=radical&no-frame=true&margin-w=4)
 
 </div>
 
