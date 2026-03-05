@@ -90,10 +90,9 @@
 
 <div align="center">
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CedricNavet&theme=radical)](https://github.com/CedricNavet)
+![GitHub Stats](https://github-readme-stats-murex-five-58.vercel.app/api?username=CedricNavet&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CedricNavet&theme=radical)](https://github.com/CedricNavet)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CedricNavet&theme=radical)](https://github.com/CedricNavet)
+![Top Langs](https://github-readme-stats-murex-five-58.vercel.app/api/top-langs/?username=CedricNavet&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=10)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=CedricNavet&theme=radical&hide_border=true)
 
