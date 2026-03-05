@@ -93,7 +93,7 @@
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CedricNavet&theme=radical)](https://github.com/CedricNavet)
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CedricNavet&theme=radical)](https://github.com/CedricNavet)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CedricNavet&theme=radical)](https://github.com/CedricNavet)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CedricNavet&theme=radical)](https://github.com/CedricNavet)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=CedricNavet&theme=radical&hide_border=true)
 
