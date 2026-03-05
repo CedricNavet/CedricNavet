@@ -5,8 +5,6 @@
 **CTO @ Mately** • **Fondateur & Dirigeant @ Ogmentis** • **Dev Full-Stack & DevOps**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cedric-navet)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cedric.navet@agencegreener.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cedricnavet)
 
 </div>
 
@@ -80,7 +78,8 @@
 
 - **Ingénieur Informatique** – École d'ingénieurs (Projets d'envergure : intranet, e-commerce, Apps mobiles)
 - 🏆 Prix Pépite Régional 2023
-- 🌟 French Tech Tremplin – « Coup de cœur Défi Étudiant-Entrepreneur »
+- 🌟 French Tech Tremplin
+– « Coup de cœur Défi Étudiant-Entrepreneur »
 - 🚀 Programme INNOVACT / Quest for Change (incubation)
 - 🎖️ TOEIC 870 (C1 Anglais)
 
@@ -88,17 +87,17 @@
 
 ## 📊 Statistiques GitHub
 
-> 💡 **Pour que les commits d'organisation apparaissent** : activez _"Show private contributions on profile"_ dans vos paramètres GitHub (Settings → Privacy → Contributions).
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CedricNavet&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CedricNavet&theme=radical)](https://github.com/CedricNavet)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CedricNavet&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=10)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CedricNavet&theme=radical)](https://github.com/CedricNavet)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CedricNavet&theme=radical)](https://github.com/CedricNavet)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=CedricNavet&theme=radical&hide_border=true)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=CedricNavet&theme=radical&no-frame=true&row=1&column=6)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=CedricNavet&theme=onedark&no-frame=true&row=1&column=6)
 
 </div>
 
@@ -111,6 +110,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cédric%20Navet-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/cedric-navet)
 
 <br/>
-
 
 </div>
