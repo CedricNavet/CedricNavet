@@ -61,7 +61,7 @@
 |---------|------|--------------|-------------------|
 | Depuis 2023 | Fondateur & Dirigeant | **Ogmentis SAS** | Lauréat Prix Pépite Régional 2023, French Tech Tremplin · App 3D interactive & RA multiplateforme (Web/iOS/Android) · Configurateur 3D AR (Unity) · App Clip (Swift) · ARKit/ARCore pour le web · Architecture microservices |
 | Depuis 2023 | CTO & Lead Dev | **Mately** | Infra Cloud & DevOps (Docker Swarm, Grafana) · App mobile React Native & microservices Node.js/ASP.NET · Monitoring, CI/CD, KPI & dashboards custom |
-| 2016 – 2022 | Freelance & Consultant Digital | **Greener** | Sites web / e-commerce (React, Next.js, ASP.NET) · Prototype PLV, carte de fidélité connectée · Solutions mailing & CRM intégrées |
+| Depuis 2021 | Freelance & Consultant Digital | **Greener** | Sites web / e-commerce (React, Next.js, ASP.NET) · Prototype PLV, carte de fidélité connectée · Solutions mailing & CRM intégrées |
 
 ---
 
